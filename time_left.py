@@ -15,16 +15,7 @@ st.markdown(f"You have {days} days, {weeks} weeks, and {months} months left. Liv
 
 
 
-
-
-# days = st.write(years * 365)
-# weeks = st.write(years * 52)
-# months = st.write(years * 12)
-
-# st.write(print(f"You have {days} days, {weeks} weeks, and {months} months left."))
-
-
-
+# todo // regular python script \\
 
 # age = input("What is your current age?\n")
 # years = 90 - int(age)
